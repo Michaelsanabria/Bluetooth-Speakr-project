@@ -1,5 +1,4 @@
 # Bluetooth-Speakr-project
------
 
 Open Source Bluetooth Speaker
 
