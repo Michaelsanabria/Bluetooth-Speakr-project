@@ -41,8 +41,7 @@ Whether you’re a hobbyist, student, or hardware developer, this system offers 
 ## Documentation
 
 - <a href = "https://www.notion.so/29a2251ec6b980baaedec4d5eed506ad?v=29b2251ec6b9801b9faf000ce8ff7c8a&source=copy_link"> Notion <a>
-
-
+- <a href ="https://www.flux.ai/mikesan97/open-source-3d-speaker?editor=schematic"> Flux <a>
 
 
 
